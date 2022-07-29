@@ -4,7 +4,7 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
         while (true) {
-            System.out.println("Specify how many character token you want to generate: ");
+            System.out.println("Specify how many characters token you want to generate: ");
             Random r = new Random();
 
             class RandomNumber {
