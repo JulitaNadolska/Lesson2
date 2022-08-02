@@ -11,7 +11,7 @@ Project is created with:
 * Java
 	
 ## Setup
-To run this project, clode this repo 
+To run this project, clone this repo 
 
 ```
 $ git clone https://github.com/JulitaNadolska/Lesson2.git
