@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5eb47a7-5584-49e2-a8f6-59e69e896435" name="Changes" comment="" />
+    <list default="true" id="e5eb47a7-5584-49e2-a8f6-59e69e896435" name="Changes" comment="adding token generator class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CcFKsGyWQceqoRwXK5hovjBmm8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,6 +39,28 @@
       <option name="presentableId" value="Default" />
       <updated>1659093907552</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1659093932410</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659093932410</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding token generator class">
+      <created>1659094062114</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659094062114</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding token generator class">
+      <created>1659094166972</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659094166972</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -38,10 +68,27 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="adding token generator class" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding token generator class" />
   </component>
 </project>
